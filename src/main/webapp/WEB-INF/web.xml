@@ -16,11 +16,6 @@
             org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher
         </servlet-class>
 
-        <init-param>
-            <param-name>javax.ws.rs.Application</param-name>
-            <param-value>com.pisi.resteasyapp.HelloApplication</param-value>
-        </init-param>
-
     </servlet>
 
 
